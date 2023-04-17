@@ -18,6 +18,7 @@ $\pagebreak$
     * initiated in 1976 as internal tool, originally FORTRAN libraries
     * 1988 rewritten in C (version 3 of language)
     * 1998 version 4 (what we use today)
+    
 * **History of S**
     * Bell labs $\rightarrow$ insightful $\rightarrow$ Lucent $\rightarrow$ Alcatel-Lucent
     * in 1998, S won the Association for computing machinery’s software system award
